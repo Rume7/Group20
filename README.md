@@ -1,2 +1,2 @@
 # Group20
-DevCareer Project Escrow project
+DevCareer Escrow project
